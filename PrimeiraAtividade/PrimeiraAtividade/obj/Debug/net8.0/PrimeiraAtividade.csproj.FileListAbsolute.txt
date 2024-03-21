@@ -1,0 +1,14 @@
+C:\temp\ProjetosCsharp\PrimeiraAtividade\PrimeiraAtividade\bin\Debug\net8.0\PrimeiraAtividade.exe
+C:\temp\ProjetosCsharp\PrimeiraAtividade\PrimeiraAtividade\bin\Debug\net8.0\PrimeiraAtividade.deps.json
+C:\temp\ProjetosCsharp\PrimeiraAtividade\PrimeiraAtividade\bin\Debug\net8.0\PrimeiraAtividade.runtimeconfig.json
+C:\temp\ProjetosCsharp\PrimeiraAtividade\PrimeiraAtividade\bin\Debug\net8.0\PrimeiraAtividade.dll
+C:\temp\ProjetosCsharp\PrimeiraAtividade\PrimeiraAtividade\bin\Debug\net8.0\PrimeiraAtividade.pdb
+C:\temp\ProjetosCsharp\PrimeiraAtividade\PrimeiraAtividade\obj\Debug\net8.0\PrimeiraAtividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosCsharp\PrimeiraAtividade\PrimeiraAtividade\obj\Debug\net8.0\PrimeiraAtividade.AssemblyInfoInputs.cache
+C:\temp\ProjetosCsharp\PrimeiraAtividade\PrimeiraAtividade\obj\Debug\net8.0\PrimeiraAtividade.AssemblyInfo.cs
+C:\temp\ProjetosCsharp\PrimeiraAtividade\PrimeiraAtividade\obj\Debug\net8.0\PrimeiraAtividade.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosCsharp\PrimeiraAtividade\PrimeiraAtividade\obj\Debug\net8.0\PrimeiraAtividade.dll
+C:\temp\ProjetosCsharp\PrimeiraAtividade\PrimeiraAtividade\obj\Debug\net8.0\refint\PrimeiraAtividade.dll
+C:\temp\ProjetosCsharp\PrimeiraAtividade\PrimeiraAtividade\obj\Debug\net8.0\PrimeiraAtividade.pdb
+C:\temp\ProjetosCsharp\PrimeiraAtividade\PrimeiraAtividade\obj\Debug\net8.0\PrimeiraAtividade.genruntimeconfig.cache
+C:\temp\ProjetosCsharp\PrimeiraAtividade\PrimeiraAtividade\obj\Debug\net8.0\ref\PrimeiraAtividade.dll
