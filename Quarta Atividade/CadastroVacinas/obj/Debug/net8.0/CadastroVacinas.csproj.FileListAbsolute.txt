@@ -1,0 +1,4 @@
+C:\temp\ProjetosCsharp\CadastroVacinas\CadastroVacinas\obj\Debug\net8.0\CadastroVacinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosCsharp\CadastroVacinas\CadastroVacinas\obj\Debug\net8.0\CadastroVacinas.AssemblyInfoInputs.cache
+C:\temp\ProjetosCsharp\CadastroVacinas\CadastroVacinas\obj\Debug\net8.0\CadastroVacinas.AssemblyInfo.cs
+C:\temp\ProjetosCsharp\CadastroVacinas\CadastroVacinas\obj\Debug\net8.0\CadastroVacinas.csproj.CoreCompileInputs.cache
